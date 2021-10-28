@@ -1,10 +1,8 @@
 package com.example.crud1.services;
 
 import java.util.ArrayList;
-
 import com.example.crud1.models.UsuarioModel;
 import com.example.crud1.repositories.UsuarioRepository;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

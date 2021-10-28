@@ -3,7 +3,7 @@ package com.example.crud1.models;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "usuario)")
+@Table(name = "usuario")
 
 public class UsuarioModel {
     
